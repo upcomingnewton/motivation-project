@@ -8,5 +8,25 @@
     "time": "1735",
     "repeat": [1,2,3,4,5,6,7],
     "description": "Second"
+  },
+  {
+    "time": "1745",
+    "repeat": [1,2,3,4,5,6,7],
+    "description": "three"
+  },
+  {
+    "time": "1755",
+    "repeat": [1,2,3,4,5,6,7],
+    "description": "four"
+  },
+  {
+    "time": "1815",
+    "repeat": [1,2,3,4,5,6,7],
+    "description": "five"
+  },
+  {
+    "time": "1900",
+    "repeat": [1,2,3,4,5,6,7],
+    "description": "six"
   }
 ]
